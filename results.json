@@ -1,0 +1,172 @@
+[
+    {
+        "frame": "frame_0.jpg",
+        "predictions": [
+            {
+                "label": "oxygen_mask",
+                "confidence": 0.0792166143655777
+            },
+            {
+                "label": "harmonica",
+                "confidence": 0.07224264740943909
+            },
+            {
+                "label": "bow_tie",
+                "confidence": 0.03489057719707489
+            }
+        ]
+    },
+    {
+        "frame": "frame_120.jpg",
+        "predictions": [
+            {
+                "label": "Band_Aid",
+                "confidence": 0.1384175568819046
+            },
+            {
+                "label": "sunscreen",
+                "confidence": 0.0552687905728817
+            },
+            {
+                "label": "bow_tie",
+                "confidence": 0.035552602261304855
+            }
+        ]
+    },
+    {
+        "frame": "frame_150.jpg",
+        "predictions": [
+            {
+                "label": "Band_Aid",
+                "confidence": 0.07947320491075516
+            },
+            {
+                "label": "sunscreen",
+                "confidence": 0.06042160838842392
+            },
+            {
+                "label": "oxygen_mask",
+                "confidence": 0.02735346183180809
+            }
+        ]
+    },
+    {
+        "frame": "frame_180.jpg",
+        "predictions": [
+            {
+                "label": "bow_tie",
+                "confidence": 0.039750322699546814
+            },
+            {
+                "label": "harmonica",
+                "confidence": 0.037214700132608414
+            },
+            {
+                "label": "Band_Aid",
+                "confidence": 0.03368810936808586
+            }
+        ]
+    },
+    {
+        "frame": "frame_210.jpg",
+        "predictions": [
+            {
+                "label": "bow_tie",
+                "confidence": 0.037788618355989456
+            },
+            {
+                "label": "Band_Aid",
+                "confidence": 0.035811200737953186
+            },
+            {
+                "label": "neck_brace",
+                "confidence": 0.03204309567809105
+            }
+        ]
+    },
+    {
+        "frame": "frame_240.jpg",
+        "predictions": [
+            {
+                "label": "sunscreen",
+                "confidence": 0.05163513123989105
+            },
+            {
+                "label": "harmonica",
+                "confidence": 0.047021180391311646
+            },
+            {
+                "label": "Band_Aid",
+                "confidence": 0.03499984368681908
+            }
+        ]
+    },
+    {
+        "frame": "frame_270.jpg",
+        "predictions": [
+            {
+                "label": "harmonica",
+                "confidence": 0.1464095115661621
+            },
+            {
+                "label": "oxygen_mask",
+                "confidence": 0.026118306443095207
+            },
+            {
+                "label": "sunscreen",
+                "confidence": 0.02403920330107212
+            }
+        ]
+    },
+    {
+        "frame": "frame_30.jpg",
+        "predictions": [
+            {
+                "label": "Band_Aid",
+                "confidence": 0.07407408207654953
+            },
+            {
+                "label": "sunscreen",
+                "confidence": 0.037441276013851166
+            },
+            {
+                "label": "shower_cap",
+                "confidence": 0.027110308408737183
+            }
+        ]
+    },
+    {
+        "frame": "frame_60.jpg",
+        "predictions": [
+            {
+                "label": "harmonica",
+                "confidence": 0.04793350771069527
+            },
+            {
+                "label": "Band_Aid",
+                "confidence": 0.04299945384263992
+            },
+            {
+                "label": "bow_tie",
+                "confidence": 0.033981937915086746
+            }
+        ]
+    },
+    {
+        "frame": "frame_90.jpg",
+        "predictions": [
+            {
+                "label": "harmonica",
+                "confidence": 0.04396195709705353
+            },
+            {
+                "label": "bow_tie",
+                "confidence": 0.03987480327486992
+            },
+            {
+                "label": "shower_cap",
+                "confidence": 0.027195794507861137
+            }
+        ]
+    }
+]

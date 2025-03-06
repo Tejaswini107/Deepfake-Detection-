@@ -1,0 +1,342 @@
+[
+    {
+        "frame": "frame_0.jpg",
+        "label": "REAL",
+        "confidence": 0.4447365999221802
+    },
+    {
+        "frame": "frame_1.jpg",
+        "label": "REAL",
+        "confidence": 0.4393787384033203
+    },
+    {
+        "frame": "frame_10.jpg",
+        "label": "REAL",
+        "confidence": 0.42773059010505676
+    },
+    {
+        "frame": "frame_11.jpg",
+        "label": "REAL",
+        "confidence": 0.4258892834186554
+    },
+    {
+        "frame": "frame_12.jpg",
+        "label": "REAL",
+        "confidence": 0.3880882263183594
+    },
+    {
+        "frame": "frame_120.jpg",
+        "label": "FAKE",
+        "confidence": 0.5533269643783569
+    },
+    {
+        "frame": "frame_13.jpg",
+        "label": "REAL",
+        "confidence": 0.43667134642601013
+    },
+    {
+        "frame": "frame_14.jpg",
+        "label": "REAL",
+        "confidence": 0.4368298649787903
+    },
+    {
+        "frame": "frame_15.jpg",
+        "label": "REAL",
+        "confidence": 0.4472442865371704
+    },
+    {
+        "frame": "frame_150.jpg",
+        "label": "FAKE",
+        "confidence": 0.5318117141723633
+    },
+    {
+        "frame": "frame_16.jpg",
+        "label": "REAL",
+        "confidence": 0.4480160176753998
+    },
+    {
+        "frame": "frame_17.jpg",
+        "label": "REAL",
+        "confidence": 0.4475354552268982
+    },
+    {
+        "frame": "frame_18.jpg",
+        "label": "REAL",
+        "confidence": 0.46891871094703674
+    },
+    {
+        "frame": "frame_180.jpg",
+        "label": "FAKE",
+        "confidence": 0.5203161239624023
+    },
+    {
+        "frame": "frame_19.jpg",
+        "label": "REAL",
+        "confidence": 0.43246886134147644
+    },
+    {
+        "frame": "frame_2.jpg",
+        "label": "REAL",
+        "confidence": 0.4487953186035156
+    },
+    {
+        "frame": "frame_20.jpg",
+        "label": "FAKE",
+        "confidence": 0.5068578720092773
+    },
+    {
+        "frame": "frame_21.jpg",
+        "label": "FAKE",
+        "confidence": 0.5124350786209106
+    },
+    {
+        "frame": "frame_210.jpg",
+        "label": "FAKE",
+        "confidence": 0.5247941613197327
+    },
+    {
+        "frame": "frame_22.jpg",
+        "label": "FAKE",
+        "confidence": 0.5153425931930542
+    },
+    {
+        "frame": "frame_23.jpg",
+        "label": "FAKE",
+        "confidence": 0.5698714852333069
+    },
+    {
+        "frame": "frame_24.jpg",
+        "label": "FAKE",
+        "confidence": 0.5543395280838013
+    },
+    {
+        "frame": "frame_240.jpg",
+        "label": "FAKE",
+        "confidence": 0.5169045329093933
+    },
+    {
+        "frame": "frame_25.jpg",
+        "label": "FAKE",
+        "confidence": 0.5655162334442139
+    },
+    {
+        "frame": "frame_26.jpg",
+        "label": "FAKE",
+        "confidence": 0.568572998046875
+    },
+    {
+        "frame": "frame_27.jpg",
+        "label": "FAKE",
+        "confidence": 0.5254268050193787
+    },
+    {
+        "frame": "frame_270.jpg",
+        "label": "FAKE",
+        "confidence": 0.5359967947006226
+    },
+    {
+        "frame": "frame_28.jpg",
+        "label": "FAKE",
+        "confidence": 0.5316459536552429
+    },
+    {
+        "frame": "frame_29.jpg",
+        "label": "FAKE",
+        "confidence": 0.524122953414917
+    },
+    {
+        "frame": "frame_3.jpg",
+        "label": "REAL",
+        "confidence": 0.4284985065460205
+    },
+    {
+        "frame": "frame_30.jpg",
+        "label": "FAKE",
+        "confidence": 0.5432516932487488
+    },
+    {
+        "frame": "frame_31.jpg",
+        "label": "FAKE",
+        "confidence": 0.5364171266555786
+    },
+    {
+        "frame": "frame_32.jpg",
+        "label": "FAKE",
+        "confidence": 0.5367093086242676
+    },
+    {
+        "frame": "frame_33.jpg",
+        "label": "FAKE",
+        "confidence": 0.534979522228241
+    },
+    {
+        "frame": "frame_34.jpg",
+        "label": "FAKE",
+        "confidence": 0.5338619351387024
+    },
+    {
+        "frame": "frame_35.jpg",
+        "label": "FAKE",
+        "confidence": 0.5315505266189575
+    },
+    {
+        "frame": "frame_36.jpg",
+        "label": "FAKE",
+        "confidence": 0.5296794176101685
+    },
+    {
+        "frame": "frame_37.jpg",
+        "label": "FAKE",
+        "confidence": 0.5335513949394226
+    },
+    {
+        "frame": "frame_38.jpg",
+        "label": "FAKE",
+        "confidence": 0.5352780818939209
+    },
+    {
+        "frame": "frame_39.jpg",
+        "label": "FAKE",
+        "confidence": 0.526820182800293
+    },
+    {
+        "frame": "frame_4.jpg",
+        "label": "REAL",
+        "confidence": 0.44295457005500793
+    },
+    {
+        "frame": "frame_40.jpg",
+        "label": "FAKE",
+        "confidence": 0.5310801267623901
+    },
+    {
+        "frame": "frame_41.jpg",
+        "label": "FAKE",
+        "confidence": 0.5318459272384644
+    },
+    {
+        "frame": "frame_42.jpg",
+        "label": "FAKE",
+        "confidence": 0.5304391980171204
+    },
+    {
+        "frame": "frame_43.jpg",
+        "label": "FAKE",
+        "confidence": 0.518737256526947
+    },
+    {
+        "frame": "frame_44.jpg",
+        "label": "FAKE",
+        "confidence": 0.5276247262954712
+    },
+    {
+        "frame": "frame_45.jpg",
+        "label": "FAKE",
+        "confidence": 0.5045531988143921
+    },
+    {
+        "frame": "frame_46.jpg",
+        "label": "FAKE",
+        "confidence": 0.5073206424713135
+    },
+    {
+        "frame": "frame_47.jpg",
+        "label": "FAKE",
+        "confidence": 0.5056581497192383
+    },
+    {
+        "frame": "frame_48.jpg",
+        "label": "FAKE",
+        "confidence": 0.5139797925949097
+    },
+    {
+        "frame": "frame_49.jpg",
+        "label": "FAKE",
+        "confidence": 0.5212283134460449
+    },
+    {
+        "frame": "frame_5.jpg",
+        "label": "REAL",
+        "confidence": 0.4287216067314148
+    },
+    {
+        "frame": "frame_50.jpg",
+        "label": "FAKE",
+        "confidence": 0.5201303958892822
+    },
+    {
+        "frame": "frame_51.jpg",
+        "label": "FAKE",
+        "confidence": 0.522589921951294
+    },
+    {
+        "frame": "frame_52.jpg",
+        "label": "FAKE",
+        "confidence": 0.5258098244667053
+    },
+    {
+        "frame": "frame_53.jpg",
+        "label": "FAKE",
+        "confidence": 0.519005537033081
+    },
+    {
+        "frame": "frame_54.jpg",
+        "label": "FAKE",
+        "confidence": 0.5361675024032593
+    },
+    {
+        "frame": "frame_55.jpg",
+        "label": "FAKE",
+        "confidence": 0.5604737997055054
+    },
+    {
+        "frame": "frame_56.jpg",
+        "label": "FAKE",
+        "confidence": 0.5154415369033813
+    },
+    {
+        "frame": "frame_57.jpg",
+        "label": "FAKE",
+        "confidence": 0.5275378227233887
+    },
+    {
+        "frame": "frame_58.jpg",
+        "label": "FAKE",
+        "confidence": 0.5535809397697449
+    },
+    {
+        "frame": "frame_59.jpg",
+        "label": "FAKE",
+        "confidence": 0.5154478549957275
+    },
+    {
+        "frame": "frame_6.jpg",
+        "label": "REAL",
+        "confidence": 0.42451244592666626
+    },
+    {
+        "frame": "frame_60.jpg",
+        "label": "FAKE",
+        "confidence": 0.533380389213562
+    },
+    {
+        "frame": "frame_7.jpg",
+        "label": "REAL",
+        "confidence": 0.44912517070770264
+    },
+    {
+        "frame": "frame_8.jpg",
+        "label": "REAL",
+        "confidence": 0.45330503582954407
+    },
+    {
+        "frame": "frame_9.jpg",
+        "label": "REAL",
+        "confidence": 0.4362052381038666
+    },
+    {
+        "frame": "frame_90.jpg",
+        "label": "REAL",
+        "confidence": 0.4928651452064514
+    }
+]
