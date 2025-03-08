@@ -10,32 +10,32 @@ This repository contains the **Deepfake Detection MVP**, a lightweight model des
 ## Code Structure
 
 ```
-📂 deepfake-detection-mvp
-├── 📂 frontend
-│   ├── 📜 index.html          # Main UI file
-│   ├── 📜 style.css           # Stylesheet
-│   ├── 📜 app.js              # Frontend logic
-│   ├── 📜 api.js              # API interaction
-│   ├── 📜 assets/             # Images, icons, etc.
+Deepfake-Detection-Project
 │
-├── 📂 backend
-│   ├── 📜 main.py             # Flask API server
-│   ├── 📜 model.py            # Deepfake detection model
-│   ├── 📜 utils.py            # Helper functions
-│   ├── 📜 requirements.txt    # Backend dependencies
-│   ├── 📜 config.yaml         # Configurations
+├── 📁 backend
+│   ├── N-heatmap.py
+│   ├── N-analyse vid.py
+│   ├── N-confidence graph.py
+│   ├── N-load model.py
+│   ├── N-run inference and save.py
 │
-├── 📂 models                  # Pre-trained models
-│   ├── 📜 deepfake_model.onnx # Optimized model file
+├── 📁 frontend
+│   ├── index.html
+│   ├── script.js
+│   ├── styles.css
 │
-├── 📂 data                     # Sample inputs
+├── 📁 .vscode
+│   ├── launch.json
 │
-├── 📂 tests                    # Unit tests
+├── 📁 models
+│   ├── xception_model.h5
 │
-├── 📜 README.md                # Project documentation
-├── 📜 setup.sh                 # Setup script
-├── 📜 .gitignore               # Git ignore file
-```
+├── 📁 dataset
+│   ├── real_videos/
+│   ├── deepfake_videos/
+│
+├── README.md
+├── requirements.txt
 
 ---
 
